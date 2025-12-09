@@ -52,10 +52,14 @@
 
 
 **TABULAR COLUMN:
+
+
 ![WhatsApp Image 2025-12-09 at 9 36 48 AM](https://github.com/user-attachments/assets/fb4c7018-3b7a-43a3-b807-2d45ab3c9589)
 
 
 **CALCULATION:
+
+
 ![WhatsApp Image 2025-12-09 at 9 36 48 AM (1)](https://github.com/user-attachments/assets/b759c1c1-b6dc-4eb5-9141-720db731294a)
 ![WhatsApp Image 2025-12-09 at 9 41 16 AM](https://github.com/user-attachments/assets/2856c9b7-368a-47d3-a9f0-749818484624)
 ![WhatsApp Image 2025-12-09 at 9 36 48 AM (2)](https://github.com/user-attachments/assets/38739c65-ba50-4600-8763-fbdad0b35e4c)
