@@ -27,9 +27,16 @@
 
 
 
+![WhatsApp Image 2025-12-15 at 11 16 15 AM](https://github.com/user-attachments/assets/4cde4cbc-4865-43cc-b801-b916076c8a4c)
 
 
 
+
+**tabular column**
+
+
+
+![WhatsApp Image 2025-12-15 at 11 16 26 AM](https://github.com/user-attachments/assets/b8fed66a-98f8-4493-b87b-5eb4e185a621)
 
 
 
@@ -49,7 +56,24 @@
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
+**calculation**
+
+![WhatsApp Image 2025-12-15 at 11 16 26 AM (1)](https://github.com/user-attachments/assets/6e95d9db-6380-43fe-95a9-5644b639fd3e)
+
+
+![WhatsApp Image 2025-12-15 at 11 16 26 AM (2)](https://github.com/user-attachments/assets/69d587d4-c72f-4336-92ff-db9d66624988)
+
+
+![WhatsApp Image 2025-12-15 at 11 16 27 AM](https://github.com/user-attachments/assets/7769d74b-44e8-415a-a4d6-9e4a94f07c84)
+
+
+
 **RESULT:**
+
+
+![WhatsApp Image 2025-12-15 at 11 16 27 AM (1)](https://github.com/user-attachments/assets/9ad6e211-c705-42ef-a6c0-f455d4cb7bf6)
+
+
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
